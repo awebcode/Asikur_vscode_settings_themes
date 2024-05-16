@@ -150,11 +150,12 @@
   "quokka.automaticRestart": true,
   "quokka.showOutputOnStart": true,
   "quokka.untrustedWorkspaceBehavior": "Always allow",
+  "quokka.automaticStartRegex": "\\.js?$|\\.ts?$|\\.jsx?$|\\.tsx?$",
   // Code snap for snap shot screen short
-  "codesnap.transparentBackground":true,
+  "codesnap.transparentBackground": true,
   "codesnap.backgroundColor": "transparent",
   "codesnap.boxShadow": "0 6px 15px rgba(0, 0, 0, 0.2)",
-  "codesnap.showWindowTitle":true, 
+  "codesnap.showWindowTitle": true,
   // code runner
   "code-runner.defaultLanguage": "javascript",
   "code-runner.executorMap": {
@@ -163,5 +164,8 @@
   "todohighlight.isEnable": true,
   "editor.bracketPairColorization.enabled": false,
   "prisma.showPrismaDataPlatformNotification": false,
-  "workbench.settings.applyToAllProfiles": [],
+  "workbench.settings.applyToAllProfiles": [
+
+  
+  ],
 }

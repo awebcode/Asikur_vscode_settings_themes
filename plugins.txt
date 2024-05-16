@@ -1,5 +1,4 @@
 1,auto close tag
-2,auto comment Blocks
 3,auto complete
 4,auto import
 5,''  rename tag
@@ -9,32 +8,32 @@
 9,color highlight
 10,color info
 11,color the tag name
-12,css flexbox chetssheet
+12,css flexbox chetssheet | not used
 13,css formatter
 14,css peak
 15, custom css and js loader
 16,es7 react/redux
 17,eslint
 18,eslint post
-19,github copilot
-20,github copilot chat
+19,github copilot | not using
+20,github copilot chat | not using
 21,github pull requests
 22,highlight matching tag
 23,Html boilerplate
 24, html class suggestions
-25, html snipets
-26, html preview
+25, .
+26, .
 27, html css autocomplete
 28,intellisense for css class names
-29,js and ts nightly
-30,jq syntax highlighting
-31,jq syntax
+29,.
+30,.
+31,.
 32.kite autocomplete
 33, live server
 34, lorem ipsum,
 35,mongo snipets
-36, nextjs ts snipets
-37, nextjs
+36, nextjs ts snipets | not using
+37, .
 38,One dark mode (best color theme on vs code) || winter is coming theme || lws
 38,output colorizer
 39,path autocomplete
@@ -42,7 +41,7 @@
 41, prettier -code formatter
 42, prisma
 43, rainbow brackets
-44,react
+44,.
 45, react-query
 46, react redux es6 snipets
 47,sass
@@ -50,13 +49,17 @@
 49,tabnine
 50,tailwind css autocomplete
 51.tailwind css intellisense
-52, tailwind shades
-53, tailwind twin intellisense
-54. test adapter converter
+52, .
+53, .
+54. .
 55, thunder client
 56, todo tree
 57, turbo console log
+58, Quokka
+59,Snapcode
+60,Git history
 58, ts react code snipets
 59, auto complete tag
 60, vscode-icons
 61,material-icons
+62, npm intellisense
